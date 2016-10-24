@@ -1,6 +1,10 @@
 # OfficeOutbrake - Changelog
 
 ### 23/10/16
+* Added walkways and a central flore.
+* Added second flore
+
+### 23/10/16
 * Redit the entie stucture, as the course started doing ever thing in .2 width.
 * Debuged an issue with te flore pieces being to high.
 	
@@ -36,3 +40,5 @@ Added files:
 ## Todo
 
 [] Add isometric camera
+[] Add central reception hall
+[] Add roof building block
