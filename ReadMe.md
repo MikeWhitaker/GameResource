@@ -1,10 +1,14 @@
 # OfficeOutbrake - Changelog
 
 ### 23/10/16
+* Redit the entie stucture, as the course started doing ever thing in .2 width.
+* Debuged an issue with te flore pieces being to high.
+	
+
+### 23/10/16
 * Linked all building blocks to a the working file
 * Make all link object proxies to be able to move them
 * Bug fixed some of the naming inconsisties
-
 
 
 ### 22/10/16
@@ -29,4 +33,6 @@ Added files:
 * added building block models
 
 
+## Todo
 
+[] Add isometric camera
