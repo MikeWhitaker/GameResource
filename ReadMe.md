@@ -1,5 +1,12 @@
 # OfficeOutbrake - Changelog
 
+### 26/10/16 15:00:13 
+Added:
+	* Stairs
+	* Half floor blocks
+	* Railing
+
+
 ### 23/10/16
 * Added walkways and a central flore.
 * Added second flore
