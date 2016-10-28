@@ -4,7 +4,8 @@ import bpy
 scn = bpy.context.scene
 
 # paths to the blend files
-filepaths = ["d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\LodA\\LodA_WallWithWindow3x4x.20.blend","d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\LodA\\LodA_WallWithDoor3x4x.20.blend",
+filepaths = ["d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\LodA\\LodA_WallWithWindow3x4x.20.blend",
+"d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\LodA\\LodA_WallWithDoor3x4x.20.blend",
 "d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\LodA\\LodA_WallWithOutLets3x4x.20.blend",
 "d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\LodA\\LodA_Railing1x2x.20.blend",
 "d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\LodA\\LodA_Floor.25x2x1.blend",
@@ -12,12 +13,11 @@ filepaths = ["d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\Lo
 "d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\LodA\\LodA_Floor2x2.blend",
 "d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\LodA\\LodA_WallCorner3x.2x.2.blend",
 "d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\LodA\\LodA_FloorCorner2x.2x.2.blend",
-"d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\LodA\\LodA_Wall3x4x.2.bland.blend",
+"d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\LodA\\LodA_Wall3x4x.2.blend",
 "d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\LodA\\LodA_WallCorner3.2x.2x.2.blend",
 "d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\LodA\\LodA_WallCorner3x.20x.20.blend",
 "d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\LodA\\LodA_WallWithDoorAndWindow3x4x.20.blend",
 "d:\\images\\Blender\\GameAssets\\BlenderSource\\BuildingBlocks\\LodA\\LodA_WallWithDoorDetail3x4x.20.blend"]
-
 
 
 # name of object(s) to append or link
