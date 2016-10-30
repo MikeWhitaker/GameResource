@@ -1,5 +1,17 @@
 # OfficeOutbrake - Changelog
 
+### 30/10/16 14:48
+Added new LOD level. Level B This concist mainly of 'plints' on the wall near
+the floor and round the door.
+
+* LodA_Wall3x4x.2.blend
+* LodA_WallWithOutLets3x4x.20.blend
+* LodA_Railing1x2x.20.blend
+* LodA_WallWithDoor3x4x.20.blend
+* LodA_WallWithWindow3x4x.20.blend
+
+
+
 ### 26/10/16 15:00:13 
 Added:
 	* Stairs
